@@ -4,7 +4,7 @@ Routes and views for the flask application.
 
 from datetime import datetime
 from flask import render_template
-from Get_The_Best.git import app
+from Get_The_Best import app
 
 @app.route('/')
 @app.route('/home')
