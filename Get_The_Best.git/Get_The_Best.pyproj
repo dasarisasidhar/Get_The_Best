@@ -30,45 +30,45 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="runserver.py" />
-    <Compile Include="Get_The_Best.git\__init__.py" />
-    <Compile Include="Get_The_Best.git\views.py" />
+    <Compile Include="Get_The_Best\__init__.py" />
+    <Compile Include="Get_The_Best\views.py" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Get_The_Best.git\" />
-    <Folder Include="Get_The_Best.git\static\" />
-    <Folder Include="Get_The_Best.git\static\content\" />
-    <Folder Include="Get_The_Best.git\static\fonts\" />
-    <Folder Include="Get_The_Best.git\static\scripts\" />
-    <Folder Include="Get_The_Best.git\templates\" />
+    <Folder Include="Get_The_Best\" />
+    <Folder Include="Get_The_Best\static\" />
+    <Folder Include="Get_The_Best\static\content\" />
+    <Folder Include="Get_The_Best\static\fonts\" />
+    <Folder Include="Get_The_Best\static\scripts\" />
+    <Folder Include="Get_The_Best\templates\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="requirements.txt" />
-    <Content Include="Get_The_Best.git\static\content\bootstrap.css" />
-    <Content Include="Get_The_Best.git\static\content\bootstrap.min.css" />
-    <Content Include="Get_The_Best.git\static\content\site.css" />
-    <Content Include="Get_The_Best.git\static\fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="Get_The_Best.git\static\fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="Get_The_Best.git\static\fonts\glyphicons-halflings-regular.ttf" />
-    <Content Include="Get_The_Best.git\static\fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="Get_The_Best.git\static\scripts\bootstrap.js" />
-    <Content Include="Get_The_Best.git\static\scripts\bootstrap.min.js" />
-    <Content Include="Get_The_Best.git\static\scripts\jquery-1.10.2.intellisense.js" />
-    <Content Include="Get_The_Best.git\static\scripts\jquery-1.10.2.js" />
-    <Content Include="Get_The_Best.git\static\scripts\jquery-1.10.2.min.js" />
-    <Content Include="Get_The_Best.git\static\scripts\jquery-1.10.2.min.map" />
-    <Content Include="Get_The_Best.git\static\scripts\jquery.validate-vsdoc.js" />
-    <Content Include="Get_The_Best.git\static\scripts\jquery.validate.js" />
-    <Content Include="Get_The_Best.git\static\scripts\jquery.validate.min.js" />
-    <Content Include="Get_The_Best.git\static\scripts\jquery.validate.unobtrusive.js" />
-    <Content Include="Get_The_Best.git\static\scripts\jquery.validate.unobtrusive.min.js" />
-    <Content Include="Get_The_Best.git\static\scripts\modernizr-2.6.2.js" />
-    <Content Include="Get_The_Best.git\static\scripts\respond.js" />
-    <Content Include="Get_The_Best.git\static\scripts\respond.min.js" />
-    <Content Include="Get_The_Best.git\static\scripts\_references.js" />
-    <Content Include="Get_The_Best.git\templates\about.html" />
-    <Content Include="Get_The_Best.git\templates\contact.html" />
-    <Content Include="Get_The_Best.git\templates\index.html" />
-    <Content Include="Get_The_Best.git\templates\layout.html" />
+    <Content Include="Get_The_Best\static\content\bootstrap.css" />
+    <Content Include="Get_The_Best\static\content\bootstrap.min.css" />
+    <Content Include="Get_The_Best\static\content\site.css" />
+    <Content Include="Get_The_Best\static\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Get_The_Best\static\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Get_The_Best\static\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Get_The_Best\static\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Get_The_Best\static\scripts\bootstrap.js" />
+    <Content Include="Get_The_Best\static\scripts\bootstrap.min.js" />
+    <Content Include="Get_The_Best\static\scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Get_The_Best\static\scripts\jquery-1.10.2.js" />
+    <Content Include="Get_The_Best\static\scripts\jquery-1.10.2.min.js" />
+    <Content Include="Get_The_Best\static\scripts\jquery-1.10.2.min.map" />
+    <Content Include="Get_The_Best\static\scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Get_The_Best\static\scripts\jquery.validate.js" />
+    <Content Include="Get_The_Best\static\scripts\jquery.validate.min.js" />
+    <Content Include="Get_The_Best\static\scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Get_The_Best\static\scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Get_The_Best\static\scripts\modernizr-2.6.2.js" />
+    <Content Include="Get_The_Best\static\scripts\respond.js" />
+    <Content Include="Get_The_Best\static\scripts\respond.min.js" />
+    <Content Include="Get_The_Best\static\scripts\_references.js" />
+    <Content Include="Get_The_Best\templates\about.html" />
+    <Content Include="Get_The_Best\templates\contact.html" />
+    <Content Include="Get_The_Best\templates\index.html" />
+    <Content Include="Get_The_Best\templates\layout.html" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">

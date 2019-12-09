@@ -3,7 +3,7 @@ This script runs the Get_The_Best.git application using a development server.
 """
 
 from os import environ
-from Get_The_Best.git import app
+from Get_The_Best import app
 
 if __name__ == '__main__':
     HOST = environ.get('SERVER_HOST', 'localhost')
